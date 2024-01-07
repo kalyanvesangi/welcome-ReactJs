@@ -1,0 +1,38 @@
+.container {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  align-items: center;
+  color: yellow;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.para {
+  align-items: center;
+  color: white;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.button-container {
+  align-items: center;
+  color: black;
+}
+
+.button {
+  color: darkblue;
+  background-color: white;
+  height: 30px;
+  width: 111px;
+  border-radius: 10px;
+  border-color: transparent;
+}
